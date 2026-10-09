@@ -10,7 +10,7 @@ If you find our work helpful, please consider citing our paper:
 ```bibtex
 @article{WANG,
   title={{InnMark: Invertible Neural Network based Lightweight and Robust Watermarking Framework}},
-  author={Rui-Lin Wang, Xiao-Qian Liu, Zhen-Duo Chen, Xin Luo, Huaxiang Zhang, and Xin-Shun Xu},
+  author={Rui-Lin Wang, Xiao-Qian Liu, Zhen-Duo Chen, Xin Luo, Huaxiang Zhang, and Xin-Shun Xu},
   journal={},
   volume = {},
   pages = {},
